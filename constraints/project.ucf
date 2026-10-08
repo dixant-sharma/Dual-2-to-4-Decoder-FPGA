@@ -1,0 +1,17 @@
+
+NET "G1"     LOC = "A10";
+NET "A1"     LOC = "D14";
+NET "B1"     LOC = "C14";
+NET "Y10"    LOC = "U18";
+NET "Y11"    LOC = "M14";
+NET "Y12"    LOC = "N14";
+NET "Y13"    LOC = "L14";
+
+NET "G2" LOC = "P15";
+NET "A2"     LOC = "P12";
+NET "B2"     LOC = "R5";
+
+NET "Y20"   LOC = "M13";
+NET "Y21"   LOC = "D4";
+NET "Y22"   LOC = "P16";
+NET "Y23"   LOC = "N12";
